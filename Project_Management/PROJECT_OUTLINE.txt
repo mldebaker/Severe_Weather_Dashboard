@@ -1,0 +1,16 @@
+Project Out Line 
+
+1. Pull Data - DONE
+
+	- Tornados
+	- Flash Floods
+	- Lightning
+	- Hail
+
+2. Transform Data - DONE
+3. Load Data to SQL - DONE
+4. Create Flask - DONE
+5. Create html to display data - DONE
+6. Create create maps and charts - DONE
+7. verify mouseover and click function - DONE
+8. clean up html and pretify display - NEXT
